@@ -12,7 +12,7 @@ import requests
 from bs4 import BeautifulSoup
 import random
 
-test_url = "https://ayrdev.com/"
+test_url = "https://example.com"
 
 
 # function to get the proxy list
